@@ -1,5 +1,9 @@
 # Clean code and refactoring
 
+Sonarqube1..
+sqa_e1bc5e5ebade05fbd17193bc88c4d54c52be955b
+squ_1577456d70bf601c4e9a2330483fc252624de892
+
 Somewhere along the way code goes from good to bad. It's usually a combination of many small factors that when allowed 
 to take hold in your project, makes it hard to work with and downright frustrating. Your code starts to smell... bad...
 

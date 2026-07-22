@@ -41,4 +41,6 @@ public class Pub {
         return price*amount;
     }
 
+    //one unit of rum (constant)
+    //one unit of lime juice is a constant (LIME_JUICE_PRICE)
 }
